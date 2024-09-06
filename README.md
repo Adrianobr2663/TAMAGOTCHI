@@ -1,0 +1,2 @@
+# TAMAGOTCHI
+Tamagotchi in Python
